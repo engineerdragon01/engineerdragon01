@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 👋 My name is Adam Chois
+
+#### I'm a Bioengineering major with a strong passion for Computer Science and Biotechnology
+
+### I work with...
+
 
 <!--
 **engineerdragon01/engineerdragon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
