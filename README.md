@@ -3,7 +3,6 @@
 #### I'm a UC Berkeley Bioengineering major with a strong passion for Computer Science and Biotechnology
 
 ### You can contact me at engineerdragon01@berkeley.edu.
-### Check out my portfolio! https://engineerdragon01.github.io
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <!--
